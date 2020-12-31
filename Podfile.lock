@@ -1,0 +1,54 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (3.4.4)
+  - LBXScan (2.4.1):
+    - LBXScan/All (= 2.4.1)
+  - LBXScan/All (2.4.1):
+    - LBXScan/Types (~> 2.2)
+  - LBXScan/Types (2.4.1)
+  - MBProgressHUD (1.0.0)
+  - SGQRCode (3.0.1)
+  - SSZipArchive (2.2.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - BaiduMapKit
+  - LBXScan (~> 2.4)
+  - MBProgressHUD (~> 1.0.0)
+  - SGQRCode (~> 3.0.1)
+  - SSZipArchive
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - BaiduMapKit
+    - LBXScan
+    - MBProgressHUD
+    - SGQRCode
+    - SSZipArchive
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  BaiduMapKit: 4ac88f5a363500760392825b69709f4a0125f81e
+  LBXScan: 740f2a4dcff7923cb08700c8ac864ca300fb5335
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SGQRCode: bf02d60e18d6660a9d75ff1c8b9b467f064f054e
+  SSZipArchive: fa16b8cc4cdeceb698e5e5d9f67e9558532fbf23
+
+PODFILE CHECKSUM: c39645a6422e5b8cc6a1c5e458dabd8de7a84343
+
+COCOAPODS: 1.9.3
